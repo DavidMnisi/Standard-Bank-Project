@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file>Qss/Cstartpage.qss</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img/Math.jpg</file>
+        <file>img/exit.png</file>
+        <file>img/info.jpg</file>
+        <file>img/restart.jpg</file>
+        <file>img/credit.png</file>
+        <file>img/about.png</file>
+        <file>img/rating.png</file>
+    </qresource>
+</RCC>
